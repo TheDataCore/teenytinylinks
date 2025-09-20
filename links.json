@@ -1,0 +1,50 @@
+{
+  "profile": {
+    "name": "Ayush",
+    "bio": "Creative Professional | Digital Enthusiast",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+  "links": [
+    {
+      "appName": "Instagram",
+      "title": "Follow my daily adventures",
+      "url": "https://instagram.com/yourusername"
+    },
+    {
+      "appName": "LinkedIn",
+      "title": "Connect with me professionally",
+      "url": "https://linkedin.com/in/yourusername"
+    },
+    {
+      "appName": "LinkedIn",
+      "title": "Connect with me professionally",
+      "url": "https://linkedin.com/in/yourusername"
+    },
+    {
+      "appName": "YouTube",
+      "title": "Subscribe to my channel",
+      "url": "https://youtube.com/@yourusername"
+    },
+    {
+      "appName": "GitHub",
+      "title": "Check out my code projects",
+      "url": "https://github.com/yourusername"
+    },
+
+    {
+      "appName": "Portfolio",
+      "title": "View my creative portfolio",
+      "url": "https://yourportfolio.com"
+    },
+    {
+      "appName": "Twitter",
+      "title": "Follow me on Twitter",
+      "url": "https://twitter.com/yourusername"
+    },
+    {
+      "appName": "Email",
+      "title": "Send me an email",
+      "url": "mailto:your.email@example.com"
+    }
+  ]
+}
