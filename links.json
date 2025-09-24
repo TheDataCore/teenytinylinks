@@ -7,44 +7,44 @@
   "links": [
     {
       "appName": "Instagram",
-      "title": "Follow my daily adventures",
+      "title": "Follow my daily shenanigans",
       "url": "https://www.instagram.com/thedatacore?igsh=djQ4NGJ4YmNucmVv"
     },
     {
       "appName": "LinkedIn",
-      "title": "Connect with me professionally",
-      "url": "https://linkedin.com/in/yourusername"
-    },
-    {
-      "appName": "LinkedIn",
-      "title": "Connect with me professionally",
-      "url": "https://linkedin.com/in/yourusername"
-    },
+      "title": "Let's connect professionally",
+      "url": "https://www.linkedin.com/in/ayu-gupta?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
     {
       "appName": "YouTube",
-      "title": "Subscribe to my channel",
-      "url": "https://youtube.com/@yourusername"
+      "title": "Boring YouTube stuff",
+      "url": "https://youtube.com/@thedatacore?si=B4b-De6UjzJHh6UB"
     },
     {
       "appName": "GitHub",
       "title": "Check out my code projects",
-      "url": "https://github.com/yourusername"
+      "url": "https://github.com/TheDataCore"
     },
 
     {
-      "appName": "Portfolio",
-      "title": "View my creative portfolio",
-      "url": "https://yourportfolio.com"
+      "appName": "Link",
+      "title": "JAVA FULL STACK PDF",
+      "url": "https://docs.google.com/document/d/1DtkuzxWJaI5bY0YeaHnesoJu_lHpJaLciuyVzAccbiw/edit?usp=sharing"
     },
     {
-      "appName": "Twitter",
-      "title": "Follow me on Twitter",
-      "url": "https://twitter.com/yourusername"
+      "appName": "Link",
+      "title": "PYTHON FULL STACK PDF",
+      "url": "https://docs.google.com/document/d/1PGLLuC-ed5uOYq17tSEYPLbEPzSAkpwz6dC4lR1UCsw/edit?usp=sharing"
+    },
+{
+      "appName": "Link",
+      "title": "JAVASCRIPT FULL STACK PDF",
+      "url": "https://docs.google.com/document/d/1VdKi1XbiGMLHvgQtdO7xWW80PXxebgIztiYZwM23LMM/edit?usp=sharing"
     },
     {
       "appName": "Email",
       "title": "Send me an email",
-      "url": "mailto:your.email@example.com"
+      "url": "mailto: ayushgupta150720@gmail.com"
     }
   ]
 }
