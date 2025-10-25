@@ -14,7 +14,8 @@
       "appName": "LinkedIn",
       "title": "Let's connect professionally",
       "url": "https://www.linkedin.com/in/ayu-gupta?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-    },
+    },
+
     {
       "appName": "YouTube",
       "title": "Boring YouTube stuff",
@@ -25,7 +26,11 @@
       "title": "Check out my code projects",
       "url": "https://github.com/TheDataCore"
     },
-
+{
+      "appName": "GitHub",
+      "title": "PREPARATION TRACKING SHEET",
+      "url": "https://docs.google.com/spreadsheets/d/1XOCF08nok-W7SJqmtOPUZQzIb_7xh2ZD5a6c00zByFs/edit?gid=284214252#gid=284214252"
+    },
     {
       "appName": "GitHub",
       "title": "JAVA FULL STACK PDF",
@@ -48,3 +53,4 @@
     }
   ]
 }
+
